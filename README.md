@@ -1,7 +1,13 @@
 # mono-repo
 
-#Client- UI- I Have Reactjs in frontend
-#Server - Backend - I have used nodejs
+#Client- UI- I Have Reactjs in frontend   <br/>
+#Server - Backend - I have used Nodejs <br/>
+For testing purposes - <br />
+/createUser - This will create a new user <br/>
+/deleteUser/:id - It will delete a particular user from the list   <br/>
+/updateUser/:id - It will update the particular user if you want to update   <br/>
+/getUser/:id - It will display a particular user    <br/>
+
 
 
 ![Screenshot (2895)](https://github.com/Aman2907/mono-repo/assets/74008888/116b64d6-06c6-45f9-829a-cecfa6c74c87)
