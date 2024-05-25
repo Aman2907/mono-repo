@@ -1,6 +1,6 @@
 # mono-repo
 
-#Client- UI- I Have Reactjs in frontend   <br/>
+#Client- UI- I have used Reactjs in frontend   <br/>
 #Server - Backend - I have used Nodejs <br/><br/>
 For testing purposes - <br /> <br/>
 /createUser - This will create a new user <br/>
