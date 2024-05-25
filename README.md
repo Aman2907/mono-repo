@@ -1,7 +1,7 @@
 # mono-repo
 
 #Client- UI- I have used Reactjs in frontend   <br/>
-#Server - Backend - I have used Nodejs <br/><br/>
+#Server - Backend - I have used Nodejs in Backend <br/><br/>
 For testing purposes - <br /> <br/>
 /createUser - This will create a new user <br/>
 /deleteUser/:id - It will delete a particular user from the list   <br/>
